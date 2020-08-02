@@ -1,0 +1,23 @@
+{
+    "name": "node-examples",
+    "version": "1.0.0",
+    "description": "Simple node examples",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Snail2037/NodeJS-Express-MongoDB.git"
+    },
+    "author": "Sahil Sinha",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Snail2037/NodeJS-Express-MongoDB/issues"
+    },
+    "homepage": "https://github.com/Snail2037/NodeJS-Express-MongoDB#readme",
+    "dependencies": {
+        "package.json": "^2.0.1"
+    }
+}
