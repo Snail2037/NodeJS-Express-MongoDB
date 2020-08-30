@@ -28,6 +28,7 @@ connect.then((db) => {
     .then((dish) => {
             console.log(dish);
 
+            // Pushes a comment document into the dish and then save the changes there
             dish.comments.push({
                 rating: 5,
                 comment: 'I\'m getting a sinking feeling!',
